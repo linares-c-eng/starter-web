@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 Deployment details here
 
 ## How to contributessss
-How to help details
+How to help details added more details example.
 
 ### Copyright
 Copyright notice message
