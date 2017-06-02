@@ -13,3 +13,6 @@ Deployment details here
 
 ## How to contributessss
 How to help details
+
+### Copyright
+Copyright notice message
