@@ -15,4 +15,4 @@ Deployment details here
 How to help details added more details example.
 
 ### Copyright
-Copyright notice message
+Copyright notice message All rights reserved
